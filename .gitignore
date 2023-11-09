@@ -1,2 +1,10 @@
 
 Project 2/creditcard.csv
+Project 2/Creditcardfraud/naivebayesclf.sav
+Project 2/Creditcardfraud/randomforest.sav
+Project 2/Creditcardfraud/randomforestRScv.sav
+Project 2/Creditcardfraud/randomsearchLINEARsvm.sav
+Project 2/Creditcardfraud/randomsearchPOLYsvm.sav
+Project 2/Creditcardfraud/randomsearchRBFsvm.sav
+Project 2/Creditcardfraud/randomsearchSGD.sav
+Project 2/Creditcardfraud/randomsearchTREE.sav
